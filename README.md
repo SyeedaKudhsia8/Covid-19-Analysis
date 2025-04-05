@@ -11,7 +11,6 @@ A comprehensive analysis and visualization of COVID-19 data from India. This pro
 ### 📁 Dataset
 
 **Name**: `covid_19_india.csv`  
-**Source**: [Ministry of Health and Family Welfare (MoHFW)](https://www.mohfw.gov.in/) or other reliable aggregators.
 
 **Features (columns)** may include:
 - `Date`
